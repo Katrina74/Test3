@@ -8,7 +8,7 @@ public class Main {
     }
 
     private static void noReturn() {
-        System.out.println("No return");
+        System.out.println(" return");
     }
 
     private static int sum(int a, int b) {
